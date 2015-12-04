@@ -1,0 +1,6 @@
+com\spd\ukraine\lucenewebsearch1\model\WebPage_.class
+com\spd\ukraine\lucenewebsearch1\service\WebPagesService.class
+com\spd\ukraine\lucenewebsearch1\model\WebPage.class
+com\spd\ukraine\lucenewebsearch1\web\IndexingController.class
+com\spd\ukraine\lucenewebsearch1\web\validators\WebPageValidatorAnnotation.class
+com\spd\ukraine\lucenewebsearch1\web\validators\WebPageValidator.class
